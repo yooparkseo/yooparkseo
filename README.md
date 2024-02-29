@@ -1,5 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![Anurag's GitHub Repo](https://github-readme-Repo.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![Anurag's GitHub Gist](https://github-readme-Gist.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![Anurag's GitHub Top languages](https://github-readme-Toplanguages.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![Anurag's GitHub WakaTime](https://github-readme-WakaTime.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
